@@ -1,17 +1,15 @@
-# Graphic Design Portfolio
+# Portfolio — Legacy Repository
 
-A portfolio project focused on **presentation design, visual communication, branding, and business-focused creative work**.
+This repository is an older version of my graphic design portfolio and is kept for reference.
 
-## Focus Areas
+## Current Portfolio
 
-- Presentation & pitch deck design
-- Business reports & documents
-- Social media creatives
-- Posters & branding
-- Visual communication
+For the current, maintained portfolio, visit:
 
-## Purpose
+🌐 **https://tanisk-portfolio-sigma.vercel.app**
 
-Created to present selected design work in a clean, professional format.
+💻 **https://github.com/tanisksahu/tanisk-portfolio**
 
-Built by **Tanisk Sahu**.
+Please use the **tanisk-portfolio** repository for the latest portfolio work and website updates.
+
+— **Tanisk Sahu**
